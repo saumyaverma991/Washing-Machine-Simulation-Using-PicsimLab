@@ -33,6 +33,8 @@ License
 Here are the simulated screens implemented:
 
 Power On Screen — “Press key5 to Power ON Washing machine”
+![image](https://github.com/user-attachments/assets/7b57459d-292f-4865-b944-6b5668cdd56f)
+
 
 Powering On Screen — “Powering ON Washing Machine”
 
