@@ -15,8 +15,11 @@ This project aims to simulate a washing machine on a virtual microcontroller env
 - [Learning Outcomes](#learning-outcomes)
 - [Contributing](#contributing)
 - [License](#license)
-
----
+- 
+  ## 🛠️ Installation
+[MPLAB X IDE](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide#tabs)
+[PICSIMLAB](https://sourceforge.net/projects/picsim/)
+[MPLAB XC8 COMPILER](https://www.microchip.com/en-us/tools-resources/develop/mplab-xc-compilers)
 
 ## 🚀 Features
 
