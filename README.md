@@ -104,3 +104,36 @@ CLCD: Program and status messages
 Buzzer: Alerts on error conditions (like door open)
 
 Motor: Simulated motor for wash/rinse/spin
+🎓 Learning Outcomes
+By working on this simulation, you will gain:
+
+Practical exposure to finite state machines in embedded design
+
+Hands-on skills in embedded C programming
+
+Knowledge of peripheral interfacing (LCD, keypad, buzzer)
+
+Introduction to appliance control systems
+
+Embedded simulation workflows with PicsimLab
+
+🤝 Contributing
+Contributions, suggestions, and issues are welcome!
+
+Fork the repo
+
+Create a new feature branch
+
+Commit your changes
+
+Open a pull request
+
+Feel free to discuss ideas by raising an issue first.
+
+📄 License
+This project is open source under the MIT License — see LICENSE for details.
+
+🔗 References
+PicsimLab Documentation
+
+PIC16F877A Datasheet
